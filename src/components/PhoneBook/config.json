@@ -1,0 +1,30 @@
+{
+  "inputName": {
+    "name": "name",
+    "placeholder": "Name***...",
+    "type": "text",
+    "minLength": 2,
+    "maxLength": 15
+  },
+  "inputPassword": {
+    "name": "password",
+    "placeholder": "Password***",
+    "type": "password",
+    "minLength": 2,
+    "maxLength": 15
+  },
+  "inputPhone": {
+    "name": "phone",
+    "placeholder": "Phone",
+    "type": "number",
+    "minLength": 2,
+    "maxLength": 15
+  },
+    "inputSearchByName": {
+    "name": "name",
+    "placeholder": "Enter name to Saerch...",
+    "type": "text",
+    "minLength": 2,
+    "maxLength": 15
+  }
+}
